@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890176395969",
+    "project_id": "goodtogo-8b17f",
+    "storage_bucket": "goodtogo-8b17f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890176395969:android:1ac062b905d4dc62b15240",
+        "android_client_info": {
+          "package_name": "com.example.goodtogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6bykMyVkaOZjFGO1vTBNu8tF7axJGkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
