@@ -20,11 +20,9 @@
 
 ## 🖼️ App Screenshots
 
-## 🖼️ App Screenshots
-
 | Login | Rides | Confirmation | Ride Details | Options | Search | Profile |
 |:------:|:------:|:--------------:|:--------------:|:--------:|:--------:|:--------:|
-| <img src="assets/screenshots/s1.jpg" width="200"/> | <img src="assets/screenshots/s2.jpg" width="200"/> | <img src="assets/screenshots/s3.jpg" width="200"/> | <img src="assets/screenshots/s4.jpg" width="200"/> | <img src="assets/screenshots/s5.jpg" width="200"/> | <img src="assets/screenshots/s6.jpg" width="200"/> | <img src="assets/screenshots/s7.jpg" width="200"/> |
+| <img src="assets/screenshots/s1.jpg" width="200"/> | <img src="assets/screenshots/s2.jpg" width="200"/> | <img src="assets/screenshots/s3.jpg" width="200"/> | <img src="assets/screenshots/s4.jpg" width="200"/> | <img src="assets/screenshots/s5.jpg" width="200"/> | <img src="assets/screenshots/s6.png" width="200"/> | <img src="assets/screenshots/s7.jpg" width="200"/> |
 
 
 ---
